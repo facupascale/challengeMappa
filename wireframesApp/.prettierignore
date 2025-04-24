@@ -1,0 +1,12 @@
+node_modules/
+ios/
+android/
+*.min.js
+*.min.jsx
+*.min.ts
+*.min.tsx
+dist/
+build/
+coverage/
+package-lock.json
+yarn.lock 
